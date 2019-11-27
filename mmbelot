@@ -1,15 +1,95 @@
 <item>
-<title> [B]pipoca</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_fc71a3dd09f4a26958ee0e0cb78fee077a7aa4ec/playlist.m3u8</link>
-<thumbnail>https://www.cleanpng.com/png-paramount-pictures-logo-image-film-television-para-6405609/</thumbnail>
+<title>FOX SPORTS</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_dc41a06f6b67b935136efcefedadf2579267cf8d/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foxsportshd.png</thumbnail>
 <fanart></fanart>
 <info>o melhor canal</info>
 </item>
 
 <item>
-<title> [B]cinemaz</title>
+<title>TELECINE PREMIUM</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_526d9c2f31fbc82704632dd1c8b4d883cc39a2f4/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png</thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>TELECINE PREMIUM</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_e3bebb108f43f0245a1b0c664cb51c6eda1a32ac/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png</thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>CINEMAX</title>
 <link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_0bd206a846dcfc8b717593bc8b86f3edf5058d0a/playlist.m3u8</link>
-<thumbnail>https://www.cleanpng.com/png-paramount-pictures-logo-image-film-television-para-6405609/</thumbnail>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/cinemax.png</thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>SONY</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_4aca273ea169884579032c7c9074116383fddbbc/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>UNIVERSAL CHANEL</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/universalchannel_8290abc6_5ddceb6f1c6b74bec04461e93f8ee6f5faf230dc/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>HBO 2</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_73920955ade68ce1abf9ad89246d7ee8b6951b97/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>MTV BRASIL</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_9b6ac92c7971903b34dfe91016e24ab44e87412c/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>SPACE</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_0b8007f3d1f841aa2b885bcaf7b558b40c03e37c/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickelodeon_bc33ea4e_55997ef4d653dc9077dcc999a88102a14b327bb0/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>DISCOVERY KIDS</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_601c2510911489b6d03558221347619a28e204f4/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>o melhor canal</info>
+</item>
+
+<item>
+<title>A&E</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_0aceaa155f7329cc5f0a3b86d5c4f2f37e1a957d/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info>o melhor canal</info>
 </item>
